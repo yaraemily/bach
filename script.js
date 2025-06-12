@@ -11,12 +11,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // Define your media objects. Each entry now has a 'type' property.
     const mediaContent = {        
 	point0: { type: 'image', src: 'photo1.jpg' },
-        point1: { type: 'video', src: 'video1.mp4' },
+        point1: { type: 'image', src: 'video1.jpg' },
         point2: { type: 'image', src: 'photo2.jpg' },
         point3: { type: 'image', src: 'photo3.jpg' },
-        point4: { type: 'video', src: 'video4.mp4' },         
+        point4: { type: 'image', src: 'photo4.jpg' },         
 	point5: { type: 'image', src: 'photo5.jpg' }, 
-	point6: { type: 'video', src: 'video6.mp4' },
+	point6: { type: 'image', src: 'photo6.jpg' },
 	point7: { type: 'image', src: 'photo7.jpg' },
 	point8: { type: 'image', src: 'photo8.jpg' },
         // Add more points and their corresponding media here
